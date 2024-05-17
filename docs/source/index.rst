@@ -1,10 +1,11 @@
-Welcome to Lumache's documentation!
+LaraLamma the Laravel RAG System
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LaraLamma**
+LaraLamma is based on Laravel and is a great foundation for any LLM centric application
+especially a RAG system.
+
+A RAG system (Retrieval augmented generation system (RAG - an architectural approach that can improve the efficacy of large language model (LLM) applications
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
