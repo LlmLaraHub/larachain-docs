@@ -35,10 +35,6 @@ These are related to documents. They have the chunk of text from the document.
 A page number and a sort number. This always has the vector field we do all the searching on.
 
 
-
-
-
-
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
