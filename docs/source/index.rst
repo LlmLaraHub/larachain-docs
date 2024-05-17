@@ -7,8 +7,10 @@ especially a RAG system.
 
 A RAG system (Retrieval augmented generation system (RAG - an architectural approach that can improve the efficacy of large language model (LLM) applications
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+.. image:: images/LaraLamma.png
+    :alt: LaraLamma
+
 
 .. note::
 
@@ -19,5 +21,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   overview
+   setuplocal
+   firstcollection

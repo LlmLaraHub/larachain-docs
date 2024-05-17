@@ -9,6 +9,9 @@ That is it!
 
 On top of that the system is LLM agnostic.
 
+.. image:: images/Overview.jpg
+    :alt: Overview
+
 
 Collections
 ----------------
@@ -34,21 +37,4 @@ Document Chunks
 These are related to documents. They have the chunk of text from the document.
 A page number and a sort number. This always has the vector field we do all the searching on.
 
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
