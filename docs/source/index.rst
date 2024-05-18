@@ -24,3 +24,4 @@ Contents
    overview
    setuplocal
    firstcollection
+   diggingin
