@@ -114,6 +114,21 @@ You can test it is working by running these commands:
     curl http://localhost:11434/api/tags
 
 
+PHP Settings
+----------------
+
+If you have issues with PHP try the following.
+
+.. code-block:: bash
+
+    max_execution_time=0
+    upload_max_filesize=500M
+    auto_prepend_file=/Applications/Herd.app/Contents/Resources/valet/dump-loader.php
+    memory_limit=-1
+    post_max_size = 100M
+
+
+
 Pulling down the latest code!
 ----------------
 Just to make sure it all works do these commands:

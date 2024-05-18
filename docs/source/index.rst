@@ -25,3 +25,4 @@ Contents
    setuplocal
    firstcollection
    diggingin
+   links
