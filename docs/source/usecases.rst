@@ -17,6 +17,8 @@ That is it chat away with your collection!
 
 Watch more of it here https://www.youtube.com/watch?v=5WYUnC7OFaE
 
+Chat Widget from https://www.patreon.com/posts/simple-and-easy-104606949
+
 Rag System
 -------------
 .. note::
