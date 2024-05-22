@@ -28,3 +28,5 @@ Contents
    firstcollection
    diggingin
    links
+   usecases
+   server
