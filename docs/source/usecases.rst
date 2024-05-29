@@ -27,11 +27,23 @@ Rag System
 
 This means you can upload PDF files, PowerPoints, pull in web data and chat with it as collections with you and your team.
 
+You ca see a video here of it working https://www.youtube.com/watch?v=SUwI70h5kVY
+
 
 Email Checking
 -------------
 Get emails (Support, Marketing) and then chat with those or better yet
-get a daily summary of the emails sent to you!
+get a daily summary of the emails sent to you! https://www.youtube.com/watch?v=IN3-7tUM6o8
+
+You can see this video here on how to setup a Email Box Source, and setup an output of a Daily Report.
+
+
+
+Email Reply
+-------------
+Get emails (Support, Marketing) and then uses your collection
+as an example of replies or "Your Company Voice"
+And then send a reply to the person
 
 
 Web Hooks and Automation
