@@ -1,6 +1,10 @@
 LaraLamma the Laravel RAG System
 ===================================
 
+
+MOVED DOCS TO https://docs.larallama.io/
+
+
 **LaraLamma**
 LaraLamma is based on Laravel and is a great foundation for any LLM centric application
 especially a RAG system.
@@ -20,14 +24,3 @@ A RAG system (Retrieval augmented generation system (RAG - an architectural appr
 
 Contents
 --------
-
-.. toctree::
-
-   overview
-   setuplocal
-   firstcollection
-   diggingin
-   links
-   usecases
-   server
-   developing
